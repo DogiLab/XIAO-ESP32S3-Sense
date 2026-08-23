@@ -13,6 +13,12 @@ Simple MJPEG web camera streaming example for the **Seeed Studio XIAO ESP32S3 Se
 * 2.4 GHz Wi-Fi network
 * Arduino/ESP32 development environment
 
+## Arduino IDE Configuration
+
+* Board: XIAO ESP32S3 Sense
+* PSRAM: OPI PSRAM
+* Serial Monitor: 115200 baud
+
 ## Usage
 
 1. Open `Camera_Web_Stream.ino`.
@@ -57,3 +63,4 @@ Tested and validated by **DogiLab** on physical XIAO ESP32S3 Sense hardware.
 ## License
 
 Licensing terms are defined at the repository level.
+
